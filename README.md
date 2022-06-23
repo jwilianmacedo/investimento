@@ -1,2 +1,2 @@
 # investimento
- programa que calcula juros simples e compotos 
+ programa que calcula juros simples e compostos 
